@@ -1,7 +1,11 @@
 <!-- JAVASCRIPT -->
 <script src="{{ URL::asset('assets/libs/jquery/jquery.min.js')}}"></script>
 <script src="{{ URL::asset('assets/libs/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-<script src="{{ URL::asset('assets/libs/metismenu/metisMenu.min.js')}}"></script>
+<!-- <script src="{{ URL::asset('assets/libs/metismenu/metisMenu.min.js')}}"></script> -->
+
+<!-- <script src="{{ URL::asset('assets/libs/metismenu/metisMenu.min.js')}}"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/metisMenu/3.0.7/metisMenu.min.js"></script>
+
 <script src="{{ URL::asset('assets/libs/simplebar/simplebar.min.js')}}"></script>
 <script src="{{ URL::asset('assets/libs/node-waves/waves.min.js')}}"></script>
 <script src="{{ URL::asset('assets/libs/feather-icons/feather.min.js')}}"></script>
